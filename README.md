@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisite
-Node installed on your computer
-git clone https://github.com/pabazj/common-followers.git
-cd common-followers-main
+Node installed on your computer.\
+git clone https://github.com/pabazj/common-followers.git.\
+cd common-followers-main.
 
 ## Available Scripts
 
