@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Prerequisite
 Node installed on your computer.\
 git clone https://github.com/pabazj/common-followers.git .\
-cd common-followers-main
+cd common-followers-main.\
+npm i
 
 ## Available Scripts
 
